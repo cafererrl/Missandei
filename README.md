@@ -15,7 +15,7 @@ The Let language BNF grammar rules:
 - The interpreter output is simply the resulting evaluation of the program.
 
 ## To Run:
-Within your environment `run main.go`, and await prompt to test sample programs provided (`program` and `program2`). Then create your own program files!
+`run main.go`, with the supplied example programs: `program0` and `program1`.
 
 ``` 
 Example:
